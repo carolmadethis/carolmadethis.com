@@ -1,6 +1,6 @@
 title: Pizza
 author: Carol
-date: 2017-11-24 17:46:44
+date: 2017-11-22 17:46:44
 tags:
 cover: image.jpg
 ---
@@ -16,7 +16,7 @@ Of course, I'm not eating dairy, so the water gets a little murky when it comes 
 
 There are tons of vegan cheese (or cheeze) to pick from, and many different recipes too.
 
-In this pizza I used two different cheezes.  <a href="http://followyourheart.com/products/mozzarella-shreds-27/">Follow Your Heart Shredded Mozzarella</a> and <a href="https://avocadosandales.com/2015/11/03/aquafaba-cheddar/">Avocados and Ale Cheddar Cheese</a> that I made.  Mine turned out a little less firm that it should have been, but still tasty.
+In this pizza I used two different cheezes. [Follow Your Heart Shredded Mozzarella] and [Avocados and Ale Cheddar Cheese] that I made.  Mine turned out a little less firm that it should have been, but still tasty.
 
 <img class="alignnone size-full wp-image-168" src="https://carolscreation.files.wordpress.com/2017/11/img_2413.jpg" alt="IMG_2413.jpg" width="3024" height="4032" />
 
@@ -44,7 +44,7 @@ Flour - about 2 cups, more or less may be needed
 
 Everything else is basic pizza making.
 
-Take your favorite tomato sauce, spread it on the crust.  Top with cheese and your favorite toppings, I was in the mood  for simple today, so I just roasted some garlic real quickly.
+Take your favorite tomato sauce, spread it on the crust.  Top with cheese and your favorite toppings, I was in the mood  for simple today, so I just roasted some garlic real quick.
 
 <img class="alignnone size-full wp-image-170" src="https://carolscreation.files.wordpress.com/2017/11/img_2408.jpg" alt="IMG_2408.jpg" width="3024" height="4032" />
 
@@ -61,3 +61,6 @@ Make sure to let the cheeze cool down from lava to hot.  Enjoy!
 <img class="alignnone size-full wp-image-166" src="https://carolscreation.files.wordpress.com/2017/11/img_2415.jpg" alt="IMG_2415.jpg" width="3024" height="4032" />
 
 <img class="alignnone size-full wp-image-163" src="https://carolscreation.files.wordpress.com/2017/11/img_2418.jpg" alt="IMG_2418.jpg" width="3024" height="4032" />
+
+[Follow Your Heat Shredded Mozzarella]: http://followyourheart.com/products/mozzarella-shreds-27/
+[Avocados and Ale Cheddar Cheese]: https://avocadosandales.com/2015/11/03/aquafaba-cheddar/

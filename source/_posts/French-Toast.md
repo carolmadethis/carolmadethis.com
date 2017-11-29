@@ -1,8 +1,8 @@
 title: French Toast
 author: Carol
+cover: /images/French_Toast/IMG_2518.jpg
 date: 2017-11-18 17:44:30
 tags:
-cover: /images/French_Toast/IMG_2518.jpg
 ---
 ![](/images/French_Toast/IMG_2519.jpg)
 Thanksgiving is coming up, and that got me thinking.  My family often gets together and we've had a breakfast casserole the morning after because some of us go Black Friday shopping, and some of us don't, so having a casserole ready to go is nice.  Except this year I'm trying to avoid dairy and eggs, so I was thinking about egg substitutes.
@@ -19,7 +19,7 @@ And it's simple to make.
 
 ![](/images/French_Toast/IMG_2525.jpg)
 
-French Toast
+__French Toast__
 1 VeganEgg (prepared per package instructions)
 1/4 c soymilk (I use [homemade])
 1 T sugar

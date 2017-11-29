@@ -4,7 +4,7 @@ cover: /images/Pizza/IMG_2417.jpg
 date: 2017-11-22 17:46:44
 tags:
 ---
-![](/images/Pizza/IMG_2416.jpg)
+![Pizza](/images/Pizza/IMG_2416.jpg)
 
 Homemade pizza is about as good as it gets.
 
@@ -22,7 +22,7 @@ Once you've got your cheeze, you need a crust.
 
 I don't really use a recipe for pizza dough, I've made it enough times I just throw everything together until it looks right.  But so you're less confused, here's an outline of a recipe.
 
-_Pizza Dough_
+__Pizza Dough__
 
 Warm water (like a hot bath) about 1/2 c
 

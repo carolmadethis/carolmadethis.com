@@ -2,6 +2,7 @@ title: Soy Milk
 author: Carol
 tags: []
 categories: []
+cover: /images/Soy_Milk/IMG_2612.JPG
 date: 2017-11-04 17:43:00
 ---
 I love making my own things.  It's fun, easy, and often isn't any harder than buying them.  Often something I run into when making my own products is the machines used to make the best tasting, smoothest products aren't easily accessible to a home user.  This is where the internet is my friend.  I know how production works, I've worked in commercial kitchens.  I know how patents work, if you can find a patent, you can figure out how to make something.  I can't sell this product, but I don't want to sell it, I want to make it.
@@ -25,6 +26,13 @@ __Soy Milk__
 - Microwave for 2-5 minutes, or until the temperature of the milk is above 195 F.
 - Pour into clean bottles, put on the lid, and refrigerate.
 - Kept refrigerated the milk will keep for 1-2 weeks.
+
+![](/images/Soy_Milk/IMG_2558.JPG)
+![](/images/Soy_Milk/IMG_2560.JPG)
+![](/images/Soy_Milk/IMG_2602.JPG)
+![](/images/Soy_Milk/IMG_2603.JPG)
+![](/images/Soy_Milk/IMG_2605.JPG)
+![](/images/Soy_Milk/IMG_2608.JPG)
 
 1 cup of dry beans usually makes the right amount at a time for me.  I bottle my soy milk in ~10 oz bottles so a single bottle of milk is usually only open for 2-3 days.  I use a microwave to bring the milk up to temp for several reasons.  The main one being easier clean up.  I don't have to get a pot dirty, and the milk tends to burn on the bottom of the pots.  Additionally the microwave heats more evenly, and faster than a stove top.  You need to heat the milk to inactive the trypsin inhibitor present in raw soy beans, which can cause digestive issues if not inactivated.  The high temperature of the milk helps sterilize the bottle, and prevents bacteria from growing.  Keeping the milk cold will also prevent any bacteria from growing, but to be safe, make sure to observe the milk before you drink.  If in doubt, throw it out.
 

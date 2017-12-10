@@ -1,8 +1,8 @@
 title: '3 Can Casserole '
 author: Carol
+cover: /images/3_Can_Casserole/IMG_2586.JPG
 date: 2017-12-05 11:39:18
 tags:
-cover: /images/3_Can_Casserole/IMG_2586.JPG
 ---
 This is a mini series on recipes I developed in College, which allowed me to graduate with honors.  
 
@@ -16,7 +16,7 @@ I came up with it because I wanted a recipe that was easy, nutritious, and delic
 *3 Can Casserole*
 1 15 oz can vegetable, I usually use corn
 1 15 oz can bean, I usually use black eyed peas
-1 15 oz can tomato, I usually use peite dieced tomato
+1 15 oz can tomato, I usually use petite diced tomato
 1 cup long grain rice
 1 t Garlic powder
 1 t Minced onion

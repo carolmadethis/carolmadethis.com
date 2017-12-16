@@ -65,6 +65,6 @@ Replace part of the flour with rye flour, add a little molasses, spices, and car
 - Gradually add the flour mixture.
 - Portion onto a baking sheet and flatten.  Bake at 350 F for 8-11 minutes.
 
-![](/images/Cookies/IMG_2436.jpg)
+![](/images/Cookies/IMG_2436-Edit.jpg)
  
 [the flavor bible]: https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400

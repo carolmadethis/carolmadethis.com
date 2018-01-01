@@ -2,7 +2,8 @@ title: '3 Can Casserole '
 author: Carol
 cover: /images/3_Can_Casserole/IMG_2586.JPG
 date: 2017-12-05 11:39:18
-tags:
+tags: [recipes, mini series]
+categories: [Food]
 ---
 This is a mini series on recipes I developed in College, which allowed me to graduate with honors.  
 

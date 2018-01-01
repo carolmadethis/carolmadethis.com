@@ -2,7 +2,8 @@ title: Savory Pancakes
 author: Carol
 cover: /images/Savory_Pancakes/IMG_2600.JPG
 date: 2017-11-29 00:02:58
-tags:
+tags: recipes
+categories: Food
 ---
 I've had a variety of flours laying around recently.  And one night I decided to mix everything together and make a pancake.  And it was delicious.  
 So I wrote it down. 

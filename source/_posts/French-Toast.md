@@ -2,7 +2,8 @@ title: French Toast
 author: Carol
 cover: /images/French_Toast/IMG_2518.jpg
 date: 2017-11-18 17:44:30
-tags:
+tags: [recipes]
+categories: [Food]
 ---
 ![](/images/French_Toast/IMG_2519.jpg)
 Thanksgiving is coming up, and that got me thinking.  My family often gets together and we've had a breakfast casserole the morning after because some of us go Black Friday shopping, and some of us don't, so having a casserole ready to go is nice.  Except this year I'm trying to avoid dairy and eggs, so I was thinking about egg substitutes.

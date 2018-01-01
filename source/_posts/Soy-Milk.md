@@ -1,7 +1,7 @@
 title: Soy Milk
 author: Carol
-tags: []
-categories: []
+tags: [recipes]
+categories: [Food]
 cover: /images/Soy_Milk/IMG_2612.JPG
 date: 2017-11-04 17:43:00
 ---

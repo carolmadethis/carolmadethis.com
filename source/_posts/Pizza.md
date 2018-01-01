@@ -2,7 +2,8 @@ title: Pizza
 author: Carol
 cover: /images/Pizza/IMG_2417.jpg
 date: 2017-11-22 17:46:44
-tags:
+tags: recipes
+categories: Food
 ---
 ![Pizza](/images/Pizza/IMG_2416.jpg)
 

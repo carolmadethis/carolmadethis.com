@@ -32,6 +32,10 @@ Bean Chili
 1/2 cup black beans
 1/2 cup green lentils
 6 cups water, divided
+1 T chili powder
+1 t cumin
+1 t cinnamon
+1/4 t red pepper flakes
 1 can tomato paste
 1 medium tomato, diced
 1 small apple, diced

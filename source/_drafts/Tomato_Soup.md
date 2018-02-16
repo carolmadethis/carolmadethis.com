@@ -21,7 +21,7 @@ Tomato Soup
 2 large cloves of garlic
 1 cup broth
 1/2 t salt
-1/8 t liquid smoke
+1/8 t liquid smoke (or less)
 1/2 cup non-dairy creamer
 1/2 lemon, juiced (optional)
 1/2 t sugar (optional)
@@ -35,4 +35,6 @@ Pour into jars or other freezer safe containers.  Freeze.
 I use the frozen soup as my ice pack in my lunch, keeping my cold food cold, and thawing the soup just enough.  
 
 I usually microwave the soup for 2 minutes.  
+
+That's it! The microwave cooks the soup so it will darken a little.  If you want, you can heat up the soup and blend again for an even smoother texture, but if you have a high speend blender and blend long enough, that's usually fine.  
 

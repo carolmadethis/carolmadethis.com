@@ -1,4 +1,4 @@
-title: Cinnamon Roll
+title: Cinnamon Rolls
 author: Carol
 tags: recipes
 categories: Food

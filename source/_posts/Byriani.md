@@ -1,8 +1,9 @@
 title: Biryani
 author: Carol
-date: 2018-04-29 11:50:56
-tags:
 cover: /images/Biryani/IMG_3010.JPG
+date: 2018-05-07 11:50:56
+tags: [recipes]
+categories: [Food]
 ---
 ![](/images/Biryani/IMG_3010.JPG)
 When I was in college I started liking non-American/European food.  Japanese, Chinese, Indian, Ethiopian.  I especially liked Indian food.  At that point I was just starting to be vegetarian, and those cusines make it a lot easier to eat without meat.  
@@ -22,7 +23,7 @@ __Biryani__
 1 large onion, sliced
 1 T oil
 
-2 cups mixed diced vegetables
+4 cups mixed diced vegetables
 	cauliflower
     green beans
     carrots
@@ -30,7 +31,7 @@ __Biryani__
     bell peppers
     tofu
 1/2 cup cashews 
-1/2 cup plain yogurt 
+1  cup plain yogurt 
 1 t tumeric
 1 t salt
 

@@ -2,7 +2,8 @@ title: Oatmeal Muffins
 author: Carol
 cover: /images/Oatmeal_Muffins/IMG_3267.JPG
 date: 2018-04-29 13:08:05
-tags:
+tags: [recipes, breakfast]
+categories: [Food]
 ---
 ![](/images/Oatmeal_Muffins/IMG_3239.JPG)
 

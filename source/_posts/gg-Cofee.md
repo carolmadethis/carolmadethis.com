@@ -1,8 +1,9 @@
 title: Egg Coffee
 author: Carol
-date: 2018-04-29 12:34:01
-tags:
 cover: /images/Egg_Coffee/IMG_3271.JPG
+date: 2018-06-17 12:34:01
+tags: [recipes, breakfast]
+categories: [Food]
 ---
 ![](/images/Egg_Coffee/IMG_3271.JPG)
 

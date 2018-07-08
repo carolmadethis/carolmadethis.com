@@ -1,9 +1,11 @@
 title: Soap
 author: Carol
-categories: Soap
-date: 2017-11-25 11:05:08
+categories:
+  - Soap
+cover: /images/soap/IMG_2632.JPG
 tags:
-cover: /images/soap/IMG_2632.JPG 
+  - badtag
+date: 2017-11-25 11:05:00
 ---
 I've recently started making soap.  It's fun, not that hard, and going to be all my Christmas presents this year.
 
@@ -21,7 +23,7 @@ A hair soap with about 15% [superfat] and just three oils (shea, coconut, and o
 
 ![](/images/soap/IMG_2634.JPG)
 
-You use it by lathering it in your hands, massaging your hair, and rinsing it out.  You follow up with a vinegar rinse to return your hair to a healthy pH.  
+You use it by lathering it in your hands, massaging your hair, and rinsing it out.  You follow up with a vinegar rinse (about 2 tablespoons per 12 oz of water, it doesn't need to be precise) to return your hair to a healthy pH.  
 
 ![](/images/soap/IMG_2633.JPG)
 

@@ -1,9 +1,12 @@
 title: Margherita Pizza
 author: Carol
 cover: /images/Margherita_Pizza/IMG_2568.JPG
-date: 2017-12-10 13:22:05
-tags: recipes, mini series
-categories: Food
+tags:
+  - recipes
+  - mini-series
+categories:
+  - Food
+date: 2017-12-10 13:22:00
 ---
 This is the second recipe in my mini series.  
 

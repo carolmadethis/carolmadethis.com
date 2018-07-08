@@ -1,8 +1,11 @@
 title: Seitan
 author: Carol
-date: 2018-04-29 12:23:26
 tags:
+  - recipies
+categories:
+  - Food
 cover: /images/Seitan/IMG_2851.JPG
+date: 2018-07-09 12:23:26
 ---
 
 I've been looking at various food blogs for inspiration.  I tend to find a blog that looks promising, and look around for a while to get inspiration.  

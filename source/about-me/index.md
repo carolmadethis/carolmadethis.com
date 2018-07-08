@@ -1,5 +1,4 @@
 title: About me
-date: 2017-12-10 13:14:01
 ---
 Hi I'm Carol
 

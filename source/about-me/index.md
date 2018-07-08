@@ -18,4 +18,4 @@ You can contact me at carolmadethis.com@gmail.com
 
 
 
-[Culinology]: culinology.org 
+[Culinology]: https://www.culinology.org 

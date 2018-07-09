@@ -1,9 +1,11 @@
 title: Tomato Soup
 author: Carol
-date: 2018
-tags: recipes
-categories: Food
+tags:
+  - recipes
+categories:
+  - Food
 cover: /images/
+date: 1969-12-31 18:00:00
 ---
 When I was younger we would often have tomato soup for dinner.  It was from a can, and while delicious, it's from a can.  And homemade is often better (and in this case, it totally is!)
 

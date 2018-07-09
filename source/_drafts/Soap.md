@@ -3,8 +3,7 @@ author: Carol
 categories:
   - Soap
 cover: /images/soap/IMG_2632.JPG
-tags:
-  - badtag
+tags: []
 date: 2017-11-25 11:05:00
 ---
 I've recently started making soap.  It's fun, not that hard, and going to be all my Christmas presents this year.

@@ -1,7 +1,10 @@
 title: Cheeze Sauce
 author: Carol
-date: 2018-02-20 21:48:55
 tags:
+  - recipe
+categories:
+  - Food
+date: 2018-02-20 21:48:00
 ---
 I've been in the mood for mexican food recently.  It must be because I'm in Texas.  
 ![](/images/Cheeze_and_Beans/IMG_3350.JPG) cheese and chips square

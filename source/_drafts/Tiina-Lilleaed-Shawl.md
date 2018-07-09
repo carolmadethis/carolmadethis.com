@@ -1,8 +1,12 @@
 title: Tiina Lilleaed Shawl
 author: Carol
-date: 2018-06-17 15:17:11
 tags:
+  - pattern review
+categories:
+  - Knitting
+date: 2018-06-17 15:17:00
 ---
+![cover](/images/Tiina/7544c.jpg)
 There's a second hand craft store here in town that sells any and everything you would need for crafting.  I try not to go too often, otherwise my stash will grow out of control.  
 
 A few weeks ago I found a cone of pale coral cotton.  It's not really lace weight, but is closer to fingering, or light fingering.  For only $3 how could I pass it up?  
@@ -17,6 +21,20 @@ By the end of the shawl, on the very last row, there was 463 stiches on my needl
 
 
 
-
+Pictures by [Nathan]
 [Tiina Lilleaed shawl]: https://www.ravelry.com/patterns/library/tiina-lilleaed
 [shawl]: https://www.carolmadethis.com
+[Nathan]:(https://nathanpetersen.com)
+
+![](/images/Tiina/7540.jpg)
+![](/images/Tiina/7541.jpg)
+![](/images/Tiina/7542.jpg)
+![](/images/Tiina/7543.jpg)
+![](/images/Tiina/7544.jpg)
+
+![](/images/Tiina/7545.jpg)
+![](/images/Tiina/7546.jpg)
+![](/images/Tiina/7547.jpg)
+![](/images/Tiina/7548.jpg)
+![](/images/Tiina/7549.jpg)
+![](/images/Tiina/7550.jpg)

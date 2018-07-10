@@ -5,7 +5,7 @@ tags:
 categories:
   - Food
 cover: /images/Seitan/IMG_2851.JPG
-date: 2018-07-09 12:23:00
+date: 2018-06-09 12:23:00
 ---
 
 I've been looking at various food blogs for inspiration.  I tend to find a blog that looks promising, and look around for a while to get inspiration.  

@@ -2,7 +2,7 @@ title: Cookies
 author: Carol
 date: 2017-12-12 11:04:36
 tags: [recipes]
-cover: /image/Cookies/header.jpg
+cover: /images/Cookies/header.jpg
 categories: [Food]
 ---
 Several months ago I got an idea for new and creative cookies.  The cookie recipes themselves aren't that exciting, they're basically a chocolate chip cookie, but with different bits, and a sugar cookie, but with seasonings.  However, once you bite into one, you'll wonder how you can go back to normal cookies ever again.

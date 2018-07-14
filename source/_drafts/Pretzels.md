@@ -56,5 +56,5 @@ PRETZELS
 
 
 
-[sourdough]: https://carolmadethis.com/SOURDOUGH
+[sourdough]: http://carolmadethis.com/2018/07/10/Sourdough/
 [pretzel]: https://www.kingarthurflour.com/recipes/sourdough-pretzels-recipe

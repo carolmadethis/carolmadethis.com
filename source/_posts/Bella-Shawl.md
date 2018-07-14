@@ -19,7 +19,7 @@ I cast on around March 1st.  As this was my first time I quickly got confused wi
 
 ![](/images/Bella/9541.jpg)
 
-There are three charts that you an repeat to change the size of the shawl.  As I was using a lace weight yarn, I chose to follow the recomended number of repeats.  
+There are three charts that you can repeat to change the size of the shawl.  As I was using a lace weight yarn, I chose to follow the recomended number of repeats.  
 
 ![](/images/Bella/9540.jpg)
 

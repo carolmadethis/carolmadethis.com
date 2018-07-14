@@ -42,12 +42,12 @@ chopped nuts
 - Add the fructose and sugar, mix.  
 - Add the oil, salt, wheat gluten, and 4 cups of flour.  Mix to a rough dough, add more flour as necessary until a soft dough forms.  
 - Cover with a damp towel and let sit for 1-2 hours to rise.  
-- Divide into 4 pieces.  Roll out into a large rectangle and spread the filling.  
+- Divide into 4 pieces.  Roll out one piece into a large rectangle and spread the filling.  
 - Roll up and cut into 8-12 pieces.  
 - Grease a pan and cover with brown sugar and pecan pieces.  Place rolls in pan cut side up.  You should end up with 4 pans of 8-12 rolls each.  Cover and freeze.  
 
 - The night before you want to bake place the pan on the counter.  
-- The next morning pre-heat oven to 375 F and bake for 20 minutes.  (If you like really gooey cinnamon rolls bake at 400 for 15 minutes
+- The next morning pre-heat oven to 375 F and bake for 20 minutes.  (If you like really gooey cinnamon rolls bake at 400 for 15 minutes)
 - Turn out onto a plate (if you wait too long you won't be able to get them out)
 
 Enjoy!

@@ -25,7 +25,7 @@ _Margherita Pizza_
 1/2 t garlic powder
 1 pizza crust, any style
 1 large handful kale, you will need more than you think
-1/4 sun dried tomatoes, soaked in water and chopped
+1/4 c sun dried tomatoes, soaked in water and chopped
 
 - In a small bowl mix together the almond flour, water, lemon, and garlic to form a stiff paste.  
 - Place kale on crust, then sun dried tomatoes, and finally blob on the almond feta paste.  

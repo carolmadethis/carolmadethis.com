@@ -36,7 +36,7 @@ Warm water (like a hot bath) about 1/2 c
 Flour - about 2 cups, more or less may be needed
 
 - Dissolve the yeast in the hot water.  You can add a teaspoon of sugar to help everything along, but that's optional.
-- Once the yeast is beginning to foam up, about 5 minutes, add the salt, oil, and cup of flour.  Mix.  Continue adding flour until adding more flour isn't easily worked in.  Knead the dough for a few minutes, and cover with a damp towel. Put in a warm place, and oven with the light on is good.  And let sit for anywhere from 10 minutes to 1 hour. If you're really ahead of time, you can put the dough into the fridge rather than a warm place.  Simply let the dough warm up on a counter for about an hour before using.
+- Once the yeast is beginning to foam up, about 5 minutes, add the salt, oil, and cup of flour.  Mix.  Continue adding flour until adding more flour isn't easily worked in.  Knead the dough for a few minutes, and cover with a damp towel. Put in a warm place, an oven with the light on is good.  And let sit for anywhere from 10 minutes to 1 hour. If you're really ahead of time, you can put the dough into the fridge rather than a warm place.  Simply let the dough warm up on a counter for about an hour before using.
 - Remove from the bowl and shape into a pizza crust.
 
 ![](/images/Pizza/IMG_2407.jpg)
@@ -63,5 +63,5 @@ Make sure to let the cheeze cool down from lava to hot.  Enjoy!
 
 ![](/images/Pizza/IMG_2418.jpg)
 
-[Follow Your Heat Shredded Mozzarella]: http://followyourheart.com/products/mozzarella-shreds-27/
+[Follow Your Heart Shredded Mozzarella]: http://followyourheart.com/products/mozzarella-shreds-27/
 [Avocados and Ale Cheddar Cheese]: https://avocadosandales.com/2015/11/03/aquafaba-cheddar/

@@ -4,8 +4,10 @@ categories:
   - Soap
 cover: /images/soap/IMG_2632.JPG
 tags: []
-date: 2017-11-25 11:05:00
+date: 2018-07-27 11:05:00
 ---
+It's Christmas in July!  I meant to get this out around Christmas last year, but 6 months late isn't too bad??
+
 I've recently started making soap.  It's fun, not that hard, and going to be all my Christmas presents this year.
 
 ~~I'm planning currently on making an assorted chocolates type gift.  This will make it easy to say what each item is, and a fun and cute way to display them.  My current issue is finding a box and paper cups for display, but I'm sure I'll find something when I go out looking.~~
@@ -50,25 +52,25 @@ Lotion bar with equal parts coconut oil, shea butter, and beeswax.
 
 This bar has just enough beeswax it won't melt in your purse, but will in your hand.  The beeswax doesn't absorb into the skin as readily as the coconut oil, and shea butter, but still feels nice.  
 
-![](/images/soap/IMG_26XX.JPG)
+![](/images/soap/IMG_3551.JPG) 
 
 Chapstick, the formulation is very similar to the lotion bar.  
 
 I made two flavors, lemon, and cinnamon peppermint.  They turned out great, and I'm very pleased with them.  
 
-![](/images/soap/IMG_26XX.JPG)
+![](/images/soap/IMG_3545.JPG) 
 
 Liquid Soap (think Dr. Bronners Castile Soap)
 
 This soap uses KOH rather than NaOH, the potassium (K) makes the final soap softer, and allows it to disolve in water more easily, making it perfect for liquid soaps.  The blend I made was about 30% coconut oil, and 70% olive oil, making it lather nicely, while still having a good moistureizing properties.  
 
-![](/images/soap/IMG_26XX.JPG)
+![](/images/soap/IMG_3553.JPG) 
 
 Shaving soap for my uncle who uses it
 
 This soap has the most ingredients and is carefully formulated for the best blend of lather, hydration, and slip (allowing the blade to go over your skin).  It was perhaps the most challenging soap I made, but also the most fun. 
 
-![](/images/soap/IMG_26XX.JPG)
+![](/images/soap/IMG_3558.JPG) 
 
 And a decorative soap (mostly for color)
 

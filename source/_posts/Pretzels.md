@@ -4,30 +4,13 @@ tags:
   - recipes
 categories:
   - Food
-date: 2018-07-09 10:52:00
+date: 2019-08-17 00:00:00
+cover: /images/Pretzels/IMG_3476.JPG
 ---
-![cover image](/images/Pretzels/IMG_3476.JPG)
-
-![](/images/Pretzels/IMG_3470.JPG)
-![](/images/Pretzels/IMG_3471.JPG)
-![](/images/Pretzels/IMG_3472.JPG)
-![](/images/Pretzels/IMG_3473.JPG)
-![](/images/Pretzels/IMG_3474.JPG)
-![](/images/Pretzels/IMG_3475.JPG)
-![](/images/Pretzels/IMG_3477.JPG)
-![](/images/Pretzels/IMG_3478.JPG)
-![](/images/Pretzels/IMG_3479.JPG)
-![](/images/Pretzels/IMG_3480.JPG)
-![](/images/Pretzels/IMG_3481.JPG)
-![](/images/Pretzels/IMG_3482.JPG)
-![](/images/Pretzels/IMG_3483.JPG)
-![](/images/Pretzels/IMG_3484.JPG)
-
-
 Pretzels are delicious.  Warm and soft, day old toasted with a little mustard.  Brush with melted butter when it comes out of the oven.  I've drooling just thinking about it!  
 
 As you saw in my post about [sourdough] there are a million ways to use discard sourdough starter.  Well, maybe not a million, but there sure are a lot!  
-
+![](/images/Pretzels/IMG_3472.JPG)
 One of which is pretzels.  Now depending on your starter, these may be very sour, or just have a slight tang.  My starter isn't very sour yet, so the tang is just barely there.  
 
 I bascially followed this [pretzel] recipe, with a few changes.  
@@ -54,7 +37,7 @@ PRETZELS
 - Once all pretzels have been shaped, carfully lift off parchment with a slotted spatula and lower into the boiling soda-water.  Boil for 30 seconds and place back on parchment.  Sprinkle with salt.  Repeat for remaining pretzels.  Once all pretzels have been dipped, bake for 25 miuntes, or until pretzels are a deep brown color, rotating pans once.  
 - Serve with mustard and enjoy!  
 
-
+![](/images/Pretzels/IMG_3480.JPG)
 
 [sourdough]: http://carolmadethis.com/2018/07/10/Sourdough/
 [pretzel]: https://www.kingarthurflour.com/recipes/sourdough-pretzels-recipe

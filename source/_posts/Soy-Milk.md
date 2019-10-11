@@ -1,10 +1,25 @@
 title: Soy Milk
 author: Carol
-tags: [recipes]
-categories: [Food]
+tags:
+  - recipes
+categories:
+  - Food
 cover: /images/Soy_Milk/IMG_2612.JPG
 date: 2017-11-04 17:43:00
 ---
+__Soy Milk__
+
+1 Part dry soy beans, soaked in water, overnight or at least 8 -12 hours
+
+5+ parts boiling water
+
+- In a Vitamix, or other high speed blender add the beans and enough boiling water to cover the beans by an inch.  Blend for 5 minutes.
+- Strain through a fine filter into a large microwave safe pitcher.  Add boiling water to bring the liquid level up to 5 times the dry bean amount.  Once you've figured out what you like you can adjust this amount.
+- Microwave for 2-5 minutes, or until the temperature of the milk is above 195 F.
+- Pour into clean bottles, put on the lid, and refrigerate.
+- Kept refrigerated the milk will keep for 1-2 weeks.
+
+
 I love making my own things.  It's fun, easy, and often isn't any harder than buying them.  Often something I run into when making my own products is the machines used to make the best tasting, smoothest products aren't easily accessible to a home user.  This is where the internet is my friend.  I know how production works, I've worked in commercial kitchens.  I know how patents work, if you can find a patent, you can figure out how to make something.  I can't sell this product, but I don't want to sell it, I want to make it.
 
 When I was at University, I wrote a [paper] on soy milk production.  It was basically a review of several different soy milk processes, along with some background data on soy milk itself.  The paper was one of many that I wrote in my time at University, but recently I've brought it out to look at it again.
@@ -15,17 +30,7 @@ Traditional soy milk is made by grinding pre-soaked soy beans with water, heatin
 
 The rest is easy.
 
-__Soy Milk__
 
-1 Part dry soy beans, soaked in water, overnight or at least 8 -12 hours
-
-5+ parts boiling water
-
-- In a Vitamix, or other high speed blender add the beans and enough boiling water to cover the beans by an inch.  Blend for 5 minutes.
-- Strain through a fine filter into a large microwave safe pitcher.  Add boiling water to bring the liquid level up to 5 times the dry bean amount.  Once you've figured out what you like you can adjust this amount.
-- Microwave for 2-5 minutes, or until the temperature of the milk is above 195 F.
-- Pour into clean bottles, put on the lid, and refrigerate.
-- Kept refrigerated the milk will keep for 1-2 weeks.
 
 ![](/images/Soy_Milk/IMG_2558.JPG)
 ![](/images/Soy_Milk/IMG_2560.JPG)

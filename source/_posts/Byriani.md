@@ -1,23 +1,12 @@
 title: Biryani
 author: Carol
 cover: /images/Biryani/IMG_3010.JPG
+tags:
+  - recipes
+categories:
+  - Food
 date: 2018-05-07 11:50:56
-tags: [recipes]
-categories: [Food]
 ---
-![](/images/Biryani/IMG_3010.JPG)
-When I was in college I started liking non-American/European food.  Japanese, Chinese, Indian, Ethiopian.  I especially liked Indian food.  At that point I was just starting to be vegetarian, and those cusines make it a lot easier to eat without meat.  
-![](/images/Biryani/IMG_3011.JPG)
-
-In one of my classes I had to make a dish from another culture, and document it.  I chose to make Biryani.  And so began my love of the dish. 
-
-![](/images/Biryani/IMG_3017.JPG)
-
-Did you know there are two types of rice dishes in India?  Pualo and Biryani.  Pualo is a rice dish where the rice, seasonings, vegetables, and broth are simmered together to cook the rice.  Biryani on the other hand is par-boiled rice, layered with par-cooked vegetables in a tomato based sauce, and baked or cooked over low heat.  
-![](/images/Biryani/IMG_3018.JPG)
-
-I've been perfecting my Biryani for some time now, and I think I've got it.  It uses every pan in the house, but it's worth it. 
-![](/images/Biryani/IMG_3127.JPG)
 
 __Biryani__
 1 large onion, sliced
@@ -65,6 +54,21 @@ small pinch saffron
 - Optional, pour 1/4 cup melted butter over the top.  
 - Cover dish and bake in a pre-heated 350 degree oven for 30 minutes.  
 - Let stand 5 minutes and serve.
+
+![](/images/Biryani/IMG_3010.JPG)
+When I was in college I started liking non-American/European food.  Japanese, Chinese, Indian, Ethiopian.  I especially liked Indian food.  At that point I was just starting to be vegetarian, and those cusines make it a lot easier to eat without meat.  
+![](/images/Biryani/IMG_3011.JPG)
+
+In one of my classes I had to make a dish from another culture, and document it.  I chose to make Biryani.  And so began my love of the dish. 
+
+![](/images/Biryani/IMG_3017.JPG)
+
+Did you know there are two types of rice dishes in India?  Pualo and Biryani.  Pualo is a rice dish where the rice, seasonings, vegetables, and broth are simmered together to cook the rice.  Biryani on the other hand is par-boiled rice, layered with par-cooked vegetables in a tomato based sauce, and baked or cooked over low heat.  
+![](/images/Biryani/IMG_3018.JPG)
+
+I've been perfecting my Biryani for some time now, and I think I've got it.  It uses every pan in the house, but it's worth it. 
+![](/images/Biryani/IMG_3127.JPG)
+
 
 ![](/images/Biryani/IMG_3013.JPG)
 

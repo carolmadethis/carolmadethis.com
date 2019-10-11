@@ -10,7 +10,7 @@ date: 2018-06-17 12:34:00
 ---
 ![](/images/Egg_Coffee/IMG_3271.JPG)
 
-Egg coffee is something most people don't know about.  It's very Swedish/Midwestern.  My mom's mom made it often at christmas time.  She was of Swedish decent.
+Egg coffee is something most people don't know about.  It's very Swedish/Midwestern.  My mom's mom made it often at christmas time.  She is of Swedish decent.
 ![](/images/Egg_Coffee/IMG_3269.JPG)
 
 It creates a very smooth, light cup of coffee, and all you really need is a pot, a cup, and a spoon.  

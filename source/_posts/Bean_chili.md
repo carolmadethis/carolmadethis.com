@@ -5,23 +5,6 @@ tags: recipes
 cover: /images/Bean_Chili/IMG_2699.JPG
 date: 2018-01-01 11:05:08
 ---
-I got an Instant Pot for christmas! I’m very excited about it.
-
-![](/images/Bean_Chili/IMG_2693.JPG)
-
-So I made beans.
-
-And I made it a soup because soups are delicious.
-
-![](/images/Bean_Chili/IMG_2704.JPG)
-
-And my parents were having chili, so I made chili.
-
-![](/images/Bean_Chili/IMG_2716.JPG)
-
-And it was delicious.
-
-![](/images/Bean_Chili/IMG_2698.JPG)
 
 Bean Chili
 2 T oil
@@ -50,5 +33,24 @@ Bean Chili
 - Quick release, and stir in the remaining ingredients except the corn. Pressure cook for 20 minutes.
 - Let sit for 10 minutes before releasing the remaining pressure. Stir in corn, and add salt if desired.
 - Serve with fresh cornbread.
+
+
+I got an Instant Pot for christmas! I’m very excited about it.
+
+![](/images/Bean_Chili/IMG_2693.JPG)
+
+So I made beans.
+
+And I made a soup because soups are delicious.
+
+![](/images/Bean_Chili/IMG_2704.JPG)
+
+And my parents were having chili, so I made chili.
+
+![](/images/Bean_Chili/IMG_2716.JPG)
+
+And it was delicious.
+
+![](/images/Bean_Chili/IMG_2698.JPG)
 
 ![](/images/Bean_Chili/IMG_2710.JPG)

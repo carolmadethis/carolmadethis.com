@@ -1,7 +1,9 @@
 title: Boeuf Bourguignon
 author: Carol
-date: 2018-11-03 18:47:23
 tags:
+  - Recipes
+categories: []
+date: 2019-11-03 18:47:00
 ---
 Boeuf Bourguignon is a quite famous french dish of stewed beef in a red wine sauce with mushrooms and peral onion.  It was made famous by Julia Child in her Mastering the Art of French Cooking.  And I'm sure it tastes perfectly delicious.  
 
@@ -51,6 +53,4 @@ _Mushroom Bourguignon_
 
 Notes 
 - Make sure the seitan is dry before browning.
-- Use any wine, but dry reds that aren't too expensive are best.  The long cooking will remove any 'fancy' notes from expensive wines, and cooking wines often have added ingredients that can make the flavor off.  Sweet wines have a higher sugar content that can also cause off flavors.  The amount of fat and cooking will remove all but the base notes of the wine, so cheap isn't bad.  
-- 
-
+- Use any wine, but dry reds that aren't too expensive are best.  The long cooking will remove any 'fancy' notes from expensive wines, and cooking wines often have added ingredients that can make the flavor off.  Sweet wines have a higher sugar content that can also cause off flavors.  The amount of fat and cooking will remove all but the base notes of the wine, so cheap isn't bad.
